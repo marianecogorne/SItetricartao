@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+.cartão_conteudo {
+    color: rgb(75, 3, 3);
+}
+
+.cartão_pergunta {
+    color: rgb(0, 0, 0);
+}
+
+.cartão_conteudo_resposta {
+    color: rgb(4, 4, 78);
+}
