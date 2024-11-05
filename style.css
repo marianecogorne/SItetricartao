@@ -1,4 +1,20 @@
+@CHARSET UTF-8
 body
 {
-  background-color:biscue;
- font-family:
+  background-color: bisque;
+ font-family: bai janjuree;
+}
+footer
+{
+  background-color: black;
+  color:white;
+  position: fixed;
+  width: 100%
+  height: 2rem;
+}
+footer e
+{
+  text-allign: center;
+  font-size: 0.6rem;
+  margin-top: 0.5rem;
+}
